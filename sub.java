@@ -1,5 +1,5 @@
-class Mul {
-	public void mul(int a , int b){
+class sub {
+	public void sub(int a , int b){
 		int c = a - b;
 	}
 
